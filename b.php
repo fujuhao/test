@@ -1,1 +1,5 @@
-bbbb
+<?php 
+
+echo 'Hello Github!';
+
+ ?>
